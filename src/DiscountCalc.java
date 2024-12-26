@@ -14,7 +14,7 @@ public class DiscountCalc {
             System.out.println("You're Eligible for 75% Discount");
         } else if (isFemale) {
             System.out.println("You're Eligible For 50% Discount");
-        } else if (age > 50) {
+        } else if (age > 50 && !isFemale) {
             System.out.println("You're Eligible For 25% Discount");
         }else {
             System.out.println("Not Eligible for Any Discount");
