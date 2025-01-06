@@ -1,3 +1,5 @@
+package challanges;
+
 import java.util.Scanner;
 
 public class DrivingLicense {

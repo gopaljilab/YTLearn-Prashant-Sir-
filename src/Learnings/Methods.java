@@ -1,3 +1,5 @@
+package Learnings;
+
 import java.util.Scanner;
 
 public class Methods {
