@@ -27,6 +27,5 @@ public class Palindrome {
             num = num / 10;
         }
         return newNum;
-
     }
 }
